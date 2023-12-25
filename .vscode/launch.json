@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
-    "configurations": [
-      {
-        "type": "edge",
-        "request": "launch",
-        "name": "Launch Edge against localhost",
-        "url": "http://localhost:3000",
-        "webRoot": "${workspaceFolder}"
-      }
-    ]
-  }
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Launch Edge against localhost",
+      "url": "https://0fgpj7p9-3000.asse.devtunnels.ms/",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
