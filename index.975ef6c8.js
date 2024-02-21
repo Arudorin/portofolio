@@ -27095,7 +27095,7 @@ var _stylesCss = require("./styles.css");
     twitter: "aldino_aldrin",
     youTube: ""
 };
-const primaryColor = "#4E567E";
+const primaryColor = "#4DA14A";
 const secondaryColor = "#D2F1E4";
 const App = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27165,7 +27165,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -27208,7 +27208,7 @@ const About = ()=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 style: {
-                    backgroundColor: "white",
+                    backgroundColor: "black",
                     width: "50%",
                     padding: "4rem",
                     margin: "3rem auto",
