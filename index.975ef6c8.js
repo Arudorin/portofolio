@@ -27095,8 +27095,8 @@ var _stylesCss = require("./styles.css");
     twitter: "aldino_aldrin",
     youTube: ""
 };
-const primaryColor = "#4DA14A";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#262626";
+const secondaryColor = "#FFFFFF";
 const App = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         id: "main",
