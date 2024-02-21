@@ -90,7 +90,7 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: #262626;
 }
 
 a {
@@ -99,7 +99,7 @@ a {
 }
 
 a:hover {
-  color: #4e567e;
+  color: #262626;
 }
 
 .container {
@@ -117,7 +117,6 @@ a:hover {
   justify-content: flex-start;
   padding: 24px 16px;
   text-align: center;
-  color: white; /* Add this line */
 }
 img.socialIcon {
   height: 30px;
