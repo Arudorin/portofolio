@@ -34,8 +34,8 @@ const siteProps = {
   youTube: "",
 };
 
-const primaryColor = "#4DA14A";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#262626";
+const secondaryColor = "#FFFFFF";
 
 const App = () => {
   return (
