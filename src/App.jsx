@@ -24,7 +24,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Aldrin Aldino",
-  title: "Software Engineer Student",
+  title: "Informatics Engineer Student",
   email: "aldrinaldino4@gmail.com",
   gitHub: "arudorin",
   instagram: "aldrinaldino._",

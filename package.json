@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package.json",
   "name": "arudorin-portofolio",
   "version": "1.0.0",
   "description": "arudorin portofolio",
@@ -6,7 +7,7 @@
   "homepage": "http://arudorin.github.io/portofolio",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
+    "build": "parcel build src/index.html",
     "build-gh": "parcel build --public-url 'https://arudorin.github.io/portofolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
