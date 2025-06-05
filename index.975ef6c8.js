@@ -27086,7 +27086,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Aldrin Aldino",
-    title: "Software Engineer Student",
+    title: "Informatics Engineer Student",
     email: "aldrinaldino4@gmail.com",
     gitHub: "arudorin",
     instagram: "aldrinaldino._",
@@ -28609,7 +28609,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _mateseFieldsPvHma684EEIUnsplashJpg = require("../images/matese-fields-pvHma684eEI-unsplash.jpg");
 var _mateseFieldsPvHma684EEIUnsplashJpgDefault = parcelHelpers.interopDefault(_mateseFieldsPvHma684EEIUnsplashJpg);
-const imageAltText = "man starring at white sky";
+const imageAltText = "cool man haha";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
